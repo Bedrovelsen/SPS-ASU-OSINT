@@ -58,6 +58,13 @@ They apparently have a LTE hotspot on board which I want to caputre some passie 
 
 Turns out both emthods worked. 
 
+| Map | Net ID            | SSID | Name | Type  | First Seen               | Most Recently            | Crypto | Est. Lat    | Est. Long     | Channel | Bcn Int. | QoS | Found by Me | Free | Pay | Comment |   |
+|-----|-------------------|------|------|-------|--------------------------|--------------------------|--------|-------------|---------------|---------|----------|-----|-------------|------|-----|---------|---|
+| map | 00:0C:E6:8F:89:73 | ASU  |      | infra | 2021-05-17T17:00:00.000Z | 2021-05-17T19:00:00.000Z | #      | 52.16537476 | -106.68710327 | 44      | 0        | 0   |             |      |     |         |   |
+| map | 00:0C:E6:FA:A4:F2 | ASU  |      | infra | 2020-08-19T09:00:00.000Z | 2021-05-17T19:00:00.000Z | #      | 52.16562653 | -106.6869278  | 6       | 0        | 2   |             |      |     |         |   |
+| map | 42:06:04:9F:34:EB | ASU  |      | infra | 2018-11-30T22:00:00.000Z | 2018-12-08T22:00:00.000Z | #      | 52.13396835 | -106.66700745 | 6       | 0        | 0   |             |      |     |         |   |
+
+
 ![one](IMG/one.png)
 
 ![two](IMG/two.png)
