@@ -28,7 +28,8 @@ OSINT Related to Saskatoon Police’s Air Support Unit
 | **Address:** P.O. Box 1728                                                                          |
 | **City:** Saskatoon                                                                                 |
 | **Postal Code:** S7K 3R6                                                                            |
-| **Province/Territory/State:** Saskatchewan Country:** CANADA                                         |
+| **Province/Territory/State:** Saskatchewan
+| **Country:** CANADA                                                                                 |
 | **Region:** Prairie and Northern                                                                    |
 | **Mail Recipient:** Yes                                                                             |
 
