@@ -39,6 +39,8 @@ OSINT Related to Saskatoon Police’s Air Support Unit
 
 ### Wescam Generation 3 MX-10 with spotter scope, image blending and integrated with a Churchill navigation map system.
 
+![IMG_8197](https://github.com/Bedrovelsen/SPS-ASU-OSINT/assets/868085/687ab70d-991d-41e5-8d5c-218fd5646b8c)
+
 
 ## Unrestricted flight position and coordainaetsiflight data feeds
 
